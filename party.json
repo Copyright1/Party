@@ -2,7 +2,7 @@
   "room":   "ℂơℙẙℜïǤℌŦ㍐ ℳṻṨïℂ ",
   "author": "™ℂơℙẙℜïǤℌŦ㍐",
   "icon":   "",
-  "css":    "",
+  "css":    "https://rawgit.com/Copyright1/Party/master/party.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
